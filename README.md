@@ -70,9 +70,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Execute project
 
 `npm install yarn --global`
+
 `yarn install`
+
 `yarn start`
 
 # Distribution
 `yarn build`
+
 Copy files from `build/` folder
